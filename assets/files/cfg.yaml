@@ -1,0 +1,15 @@
+DEV:
+  HOST: 'https://api-test-e.source3g.com'
+  WEICHAT:
+    APPID: 'as232ewe'
+    SECRET: 123
+TEST:
+  HOST: 'http://www.test.com'
+  WEICHAT:
+    APPID: 'bs232ewe'
+    SECRET: 456
+PRODUCT:
+  HOST: 'http://www.product.com'
+  WEICHAT:
+    APPID: 'cs232ewe'
+    SECRET: 789
